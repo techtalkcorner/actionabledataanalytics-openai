@@ -1,8 +1,3 @@
----
-lab:
-    title: 'Deploy Your Model with Azure AI Studio'
----
-
 # Deploy Your Model with Azure AI Studio
 
 In this lab, you'll learn the step-by-step process to deploy a machine learning model using Azure AI Studio. This platform simplifies and streamlines the deployment process, making it accessible even for those new to cloud-based model deployment.

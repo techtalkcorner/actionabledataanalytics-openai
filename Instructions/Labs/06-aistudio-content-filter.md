@@ -1,8 +1,3 @@
----
-lab:
-    title: 'Content filter with Azure AI Studio'
----
-
 # Test Content Filter
 
 The default content filtering configuration is set to filter at the medium severity threshold for all four content harms categories for both prompts and completions.

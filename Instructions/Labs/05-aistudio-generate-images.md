@@ -1,8 +1,3 @@
----
-lab:
-    title: 'Generate images with a DALL-E model'
----
-
 # Generate Images with a DALL-E Model
 
 In this exercise, we will use Azure OpenAI Studio, as the DALL-E model is not available in Australia.

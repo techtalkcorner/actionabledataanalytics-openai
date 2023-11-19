@@ -1,8 +1,3 @@
----
-lab:
-    title: 'AI Studio Prompt Engineering'
----
-
 # Prompt Engineering
 Prompt engineering refers to the process of carefully designing and structuring the input or "prompt" given to an AI model, especially a language model like GPT-3 or GPT-4, to elicit the most accurate, relevant, or creative response. This process is crucial because the way a prompt is phrased significantly influences the model's output.
 
@@ -238,7 +233,7 @@ In addition to generating natural language responses, you can use GPT models to 
 
 
 
-## Create Fictional Destinations Exercise (Optional)
+## Create Fictional Destinations (Optional)
 
 Explore how prompt engineering can shape AI responses to generate creative and unique travel destinations.
 
